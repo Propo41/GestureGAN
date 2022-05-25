@@ -1,3 +1,4 @@
+% THE FILE HAS BEEN MODIFIED TO SUIT WITH OCTAVE INSTEAD OF MATLAB
 clear all;close all;clc;
 
 image_folder='./ntu_image_skeleton/ntu_image';
